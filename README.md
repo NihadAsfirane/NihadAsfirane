@@ -2,7 +2,7 @@
 
 I'm a recent graduate based in Liverpool, UK, with two master's degrees: **Artificial Intelligence & Machine Learning** (Distinction) and **Power Engineering**. I'm interested in applying machine learning and deep learning to electrical and power engineering.
 
-[Portfolio](https://nihadasfirane.github.io) · [LinkedIn](https://www.linkedin.com/in/nihad-asfirane-82a069201/) · [nihadasfirane2001@gmail.com](mailto:nihadasfirane2001@gmail.com)
+[Portfolio](https://nihadasfirane.github.io) · [LinkedIn](https://www.linkedin.com/in/nihad-asfirane-82a069201/) · [nihadasfirane2001@gmail.com](mailto:nihad.asfirane@yahoo.com)
 
 ### Education
 
